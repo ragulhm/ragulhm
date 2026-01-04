@@ -1,57 +1,36 @@
-# Hi there, I'm Ragul M 👋
+# 👨‍💻 Hello World, I'm Ragul M! 
 
-### AI Developer | Full-Stack Enthusiast | B.Tech Information Technology Student
+**AI Multi-Agent Systems Architect | Full-Stack Developer | IT Student**
 
-I am a passionate developer focused on building intelligent systems and scalable web applications. Currently, I am exploring the intersection of **Generative AI**, **Multi-Agent Orchestration**, and **Automation** to solve real-world problems.
+I am a developer who bridges the gap between traditional MERN stack development and the next generation of AI-driven automation. Currently, I am focused on building **Agentic Systems** that don't just answer questions, but solve problems.
 
 ---
 
 ### 🛠️ Technical Toolkit
 
-- [cite_start]**Languages:** Python, JavaScript, HTML/CSS [cite: 29]
-- [cite_start]**AI & Automation:** Multi-Agent Systems, Ollama, DeepSeek, Gemini API, n8n [cite: 9, 22, 25, 32]
-- [cite_start]**Web Development:** React, Node.js, FastAPI, Flask, Express [cite: 9, 16, 31]
-- [cite_start]**Databases:** MongoDB, MySQL [cite: 30]
-- [cite_start]**Dev Tools:** Docker, Git, VS Code, Replit AI [cite: 32]
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| **Frameworks** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) |
+| **AI & Workflow** | ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-blue?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| **DevOps/Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-### 🌟 Featured Projects
+### 🎓 Education & Roles
 
-#### 🤖 [Eduplanner - LLM-Based Multi-Agent System](link-to-repo)
-* [cite_start]Developed an AI-driven lesson planning system using a **multi-agent architecture** (Evaluator, Optimizer, and Analyst agents)[cite: 4, 5].
-* [cite_start]Implemented **Skill Tree-based personalization** to dynamically adjust learning paths and difficulty[cite: 6].
-* [cite_start]**Tech Stack:** Python, React, FastAPI, Ollama, DeepSeek API[cite: 9].
-
-#### 🌿 [Plant Analysis Tool](link-to-repo)
-* [cite_start]Built an AI tool that analyzes plant images to identify species and assess health using **Google Gemini AI**[cite: 17, 18].
-* [cite_start]Features an automated pipeline for image processing and PDF report generation[cite: 19, 21].
-* [cite_start]**Tech Stack:** React, Node.js, Express, Gemini API[cite: 22].
-
-#### 💬 [MERN Chat Application](link-to-repo)
-* [cite_start]A real-time communication platform supporting group messaging via **Socket.io**[cite: 10, 11].
-* [cite_start]Includes secure JWT authentication and persistent chat history with MongoDB[cite: 12, 14].
-* [cite_start]**Tech Stack:** React, Vite, Node.js, Express, MongoDB[cite: 16].
-
-#### ⚙️ [Personal AI Workflow Automation](link-to-repo)
-* [cite_start]Created a modular agent system using **n8n** to automate email replies, calendar tasks, and chat[cite: 23, 24, 27].
-* [cite_start]Integrated Google Gemini for contextual conversations and task execution[cite: 25].
+* **B.Tech in Information Technology** | [cite_start]Government College of Technology, Coimbatore [cite: 39, 40]
+* **Placement Representative** | [cite_start]Coordinating recruitment for the Class of 2026 [cite: 35, 36, 40]
+* **Certified AI Specialist** | [cite_start]Building Effective Agentic Systems with Generative AI [cite: 33]
 
 ---
 
-### 📜 Certifications & Leadership
+### 🔗 Let's Connect!
 
-* [cite_start]**Building Effective Agentic Systems with Generative AI** [cite: 33]
-* [cite_start]**Cybersecurity Essentials** - CISCO [cite: 33]
-* [cite_start]**Placement Representative** at Government College of Technology, Coimbatore (2024–Present) [cite: 35, 40]
-
----
-
-### 📫 Connect with Me
-
-- [cite_start]📧 **Email:** [Ragul.mr3391@gmail.com](mailto:Ragul.mr3391@gmail.com) [cite: 2]
-- [cite_start]💼 **LinkedIn:** [Your LinkedIn Link Here] [cite: 2]
-- [cite_start]🌐 **Portfolio:** [Your Portfolio Link Here] [cite: 2]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragul-m-965251252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ragul-portfolio-ai-mern.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ragul.mr3391@gmail.com)
 
 ---
-*Expected Graduation: 2026 | [cite_start]Government College of Technology, Coimbatore* [cite: 40]
+*“Developing intelligent systems today for a more automated tomorrow.”*
