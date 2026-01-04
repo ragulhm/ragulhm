@@ -4,6 +4,10 @@
 
 I am a developer who bridges the gap between traditional MERN stack development and the next generation of AI-driven automation. Currently, I am focused on building **Agentic Systems** that don't just answer questions, but solve problems.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
+</p>
+
 ---
 
 ### 🛠️ Technical Toolkit
