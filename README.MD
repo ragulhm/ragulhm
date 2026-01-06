@@ -20,16 +20,6 @@ I am a developer who bridges the gap between traditional MERN stack development 
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 | **DevOps/Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
----
-
-### 🎓 Education & Roles
-
-* **B.Tech in Information Technology** | [cite_start]Government College of Technology, Coimbatore [cite: 39, 40]
-* **Placement Representative** | [cite_start]Coordinating recruitment for the Class of 2026 [cite: 35, 36, 40]
-* **Certified AI Specialist** | [cite_start]Building Effective Agentic Systems with Generative AI [cite: 33]
-
----
-
 ### 🔗 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragul-m-965251252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
