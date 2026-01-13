@@ -1,6 +1,6 @@
 # 👨‍💻 Hello World, I'm Ragul M! 
 
-| Full-Stack Developer | IT Student**
+| Full-Stack Developer | IT Student
 
 I am a developer who bridges the gap between traditional MERN stack development and the next generation of AI-driven automation. Currently, I am focused on building **Agentic Systems** that don't just answer questions, but solve problems.
 
