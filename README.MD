@@ -25,11 +25,11 @@ I am a developer who bridges the gap between traditional MERN stack development 
 
 ### 🌐 Live Projects
 
-| Project | Deployment | Stack |
+| Project | Deployment | 
 | :--- | :--- | :--- |
-| **MERN Chat App** | [🚀 Live Demo](http://hm-chatapp.netlify.app) | [cite_start]React, Node.js, Socket.io, AWS [cite: 7, 8] |
-| **Plant Analysis AI** | [🌿 Live Demo](https://plant-analysis-tool-gemini-2-5-flask.onrender.com/) | [cite_start]Gemini AI, Flask, React [cite: 24, 27] |
-| **EduPlanner** | *Coming Soon* | [cite_start]Multi-Agent LLM, FastAPI, Ollama [cite: 18, 21] |
+| **MERN Chat App** | [🚀 Live Demo](http://hm-chatapp.netlify.app) | 
+| **Plant Analysis AI** | [🌿 Live Demo](https://plant-analysis-tool-gemini-2-5-flask.onrender.com/) |
+| **EduPlanner** | *Coming Soon* | 
 
 ---
 
