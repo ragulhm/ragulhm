@@ -26,7 +26,8 @@ I am a developer who bridges the gap between traditional MERN stack development 
 ### 🌐 Live Projects
 
 | Project | Deployment | 
-| :--- | :--- | :--- |
+
+
 | **MERN Chat App** | [🚀 Live Demo](http://hm-chatapp.netlify.app) | 
 
 | **Plant Analysis AI** | [🌿 Live Demo](https://plant-analysis-tool-gemini-2-5-flask.onrender.com/) |
