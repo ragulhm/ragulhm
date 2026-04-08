@@ -23,19 +23,6 @@ I am a developer who bridges the gap between traditional MERN stack development 
 
 </div>
 
-### 🌐 Live Projects
-
-| Project | Deployment | 
-
-
-| **MERN Chat App** | [🚀 Live Demo](http://hm-chatapp.netlify.app) | 
-
-| **Plant Analysis AI** | [🌿 Live Demo](https://plant-analysis-tool-gemini-2-5-flask.onrender.com/) |
-
-| **EduPlanner** | *Coming Soon* | 
-
----
-
 ### 🔗 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragul-m-965251252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
